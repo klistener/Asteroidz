@@ -16,6 +16,20 @@ Once Unity Editor is installed, click on the 'Installs' page to the left...
 
 ## Download Project
 
+1. Navigate to the [GitHub repo page](https://github.com/klistener/Asteroidz), and select 'v0.0.0' from 'Releases':
+
+![image info](./docs/v0.0.0.png)
+
+2. Download the project as either a zip or tar.gz file:
+
+![image info](./docs/source-code.png)
+
+If you are familiar with git and have it installed, you can also just clone the repository:
+
+```
+git clone https://github.com/klistener/Asteroidz.git
+```
+
 ## Open Project
 
 Click 'Projects' in Unity Hub. Click on the 'Add' dropdown, and click 'Add project from disk'.
