@@ -10,11 +10,11 @@ Once Unity Editor is installed, click on the 'Installs' page to the left...
 
 ![image info](./docs/installs.png)
 
-Do you see Unity 6.3 LTS in the available options?
+Do you see Unity 6.3 LTS (6000.3) in the available options?
 
-If so, skip to the ![download project](#download-project) section.
+**If so**, skip to the ![download project](#download-project) section.
 
-If you do not see Unity 6.3 in the available editor versions, click 'Install Editor' ...
+**If not**, click 'Install Editor' ...
 
 ![image info](./docs/install-editor.png)
 
