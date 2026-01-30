@@ -7,8 +7,8 @@ public class JukeBox : MonoBehaviour
     [SerializeField] AudioClip level2;
     [SerializeField] AudioClip level3;
     PlayerController player;
-    float level2Threshold = 100f;
-    float level3Threshold = 200f;
+    float level2Threshold = 300f;
+    float level3Threshold = 600f;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
