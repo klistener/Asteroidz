@@ -12,7 +12,7 @@ If you do not already have Unity Hub, go [here](https://unity.com/developer-tool
 
 Do you see Unity 6.3 LTS (6000.3) in the available options?
 
-**If so**, skip to the ![download project](#download-project) section.
+**If so**, skip to the [download project](#download-project) section.
 
 **If not**, click 'Install Editor' ...
 
@@ -26,9 +26,9 @@ To download the project files as a zip or tar file:
 
 1. Open the [GitHub repository](https://github.com/klistener/Asteroidz) again in a separate tab, positioning this readme so you can still refer to it.
 
-2. Select 'v0.0.0' from 'Releases':
+2. Select the latest release:
 
-![image info](./docs/v0.0.0.png)
+![image info](./docs/latest-release.png)
 
 2. Download the project as either a zip or tar.gz file:
 
