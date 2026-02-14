@@ -4,13 +4,13 @@ This repository contains a Unity project - the source code and configuration fil
 
 ## Install Unity
 
-A specific version of Unity Editor (Unity 6.3 LTS) is needed to open this Unity project. To install it, you must first install a separate application called **Unity Hub**. Unity Hub is a utility for installing and managing different versions of Unity Editor. 
+A specific version of Unity Editor (Unity 6.3 LTS, or 6000.3.8) is needed to open this Unity project. To install it, you must first install a separate application called **Unity Hub**. Unity Hub is a utility for installing and managing different versions of Unity Editor. 
 
 If you do not already have Unity Hub, go [here](https://unity.com/developer-tools?clickref=1110lNi66qt&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate&gad_source=1&gad_campaignid=22883287084&gbraid=0AAAABA_4ouItrSaNIPt_9G9C4oSBfE7UL&gclid=CjwKCAiAjojLBhAlEiwAcjhrDu0RegHvmBmY4XKHNU7CYglS2S5cJ6jKJ4BphRXL6uaMhAY_qhv0QxoCaKcQAvD_BwE). Once the installation is complete, click on the 'Installs' page to the left...
 
 ![image info](./docs/installs.png)
 
-Do you see Unity 6.3 LTS (6000.3) in the available options?
+Do you see Unity 6.3 LTS (6000.3.8) in the available options?
 
 **If so**, skip to the [download project](#download-project) section.
 
@@ -26,7 +26,7 @@ To download the project files as a zip or tar file:
 
 1. Open the [GitHub repository](https://github.com/klistener/Asteroidz) again in a separate tab, positioning this readme so you can still refer to it.
 
-2. Select the latest release:
+2. Select whatever the latest release is:
 
 ![image info](./docs/latest-release.png)
 
@@ -47,3 +47,5 @@ Return to Unity Hub, and click 'Projects'. Click on the 'Add' dropdown, and clic
 ![image info](./docs/add-project.png)
 
 Select whatever folder you previously saved the Unity project to. You can now open the project.
+
+**Please Note** - if you downloaded this project before February 13, 2026, you may see a warning like **are you sure you want to change the Unity Editor version of your project?** If you see this warning, click "change version" and force it to build in 6000.3.8. This should work for almost everyone, but if you experience crashes, you may need to remove the project from Unity Hub, download it again, and repeat the steps in this manual. We apologize for any inconvenience. 
